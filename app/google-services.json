@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226894082516",
+    "project_id": "java-webshop",
+    "storage_bucket": "java-webshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226894082516:android:b0c856c0c74785187e2641",
+        "android_client_info": {
+          "package_name": "com.example.mainactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArSOTC_O5UkagMsI7iiah8XPHaNM_U2kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
